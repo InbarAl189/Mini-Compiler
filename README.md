@@ -1,6 +1,6 @@
 # Mini Compiler
  
-**Compiler for a mini programming language that described by specific grammer, built as part of Theory of Compilation course (programming in C, using Visual Studio)**
+**Compiler for a mini programming language that described by specific grammar, built as part of Theory of Compilation course (programming in C, using Visual Studio)**
 
 It has been built as a series of three incremental phases, each contributing a key part of the compiler.<br>
 
