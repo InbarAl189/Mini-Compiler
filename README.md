@@ -11,4 +11,4 @@ It has been built as a series of three incremental phases, each contributing a k
 | Project 3 | Building a semantic analyser for the grammar implemented in Project 2                                   |   
 
 The Mini-Compiler compiles the program and shows the output of each phase of compiler in different output file.<br>
-**NOTE**: put test1 and test2 in the directory: C:\temp
+**NOTE**: put the test files (test1 and test2) in the directory: C:\temp
